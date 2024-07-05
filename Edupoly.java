@@ -3,6 +3,8 @@ public class Edupoly {
        char a=50;
        int c=a;
        int d=c+a;
-       System.out.println(d);      
+       System.out.println(d);  
+       boolean arg=true;
+       System.out.println(arg);    
     }
 }
