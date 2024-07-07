@@ -42,7 +42,7 @@ public class Array {
         // }
         // // Q9
         // int min=ar[0];
-        // for(int i=1;i<=ar.length-1;i++)
+        //  for(int i=1;i<=ar.length-1;i++)
         // {
         //     if (min>ar[i]) {
         //         min=ar[i];
