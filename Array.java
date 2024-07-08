@@ -152,16 +152,16 @@ public class Array {
         //    }
 
         //  // Q19
-        //  Scanner input=new Scanner(System.in);
+         Scanner input=new Scanner(System.in);
        
-        //  int n=input.nextInt();
+         int n=input.nextInt();
         
-        // for(int i=0;i<ar.length;i++){
-        //     if (n==ar[i]) {
-        //         System.out.println(i);
+        for(int i=0;i<ar.length;i++){
+            if (n==ar[i]) {
+                System.out.println(i);
                 
-        //     }
-        // }
+            }
+        }
 
         // //Q 20
          

@@ -2,7 +2,7 @@ import java.util.Scanner;
 
 public class Datastru {
     public static void main(String[] args) {
-        int[] ar={23,34,54,10,4,7};
+        int[] ar={23,34,54,10,4,7,};
         // //Q1
         // for(int i=0;i<=ar.length-1;i++){
         //     System.out.println(ar[i]);
@@ -99,6 +99,43 @@ public class Datastru {
         //     }
         //   }
         // // 14
+        // for(int i=0;i<=ar.length-1;i++){
+        //     if (ar[i]%2==0) {
+        //         System.out.println(ar[i]);
+                
+        //     }
+        // }
+        // //15
+        //  for (int i=0;i<=ar.length-1;i++){
+        //     if(ar[i]%2!=0){
+        //         System.out.println(ar[i]);
+        //     }
+        //  }
+        // //Q16
+        // for(int i=0;i<=ar.length-1;i++){
+        //    if(ar[i]>=0){
+        //     System.out.println(ar[i]);
+        //    }
+        // }
+        // //Q16
+        // Scanner input=new Scanner(System.in);
+        //   int n=input.nextInt();
+        //   boolean it=false;
+    //     for (int i = 0; i < ar.length; i++) {
+    //       if (ar[i]==n) {
+    //         it=true;
+            
+    //       }
+           
+          
+    //     }if (it==true) { 
+    //         System.out.println("true");
+          
+    // } else {
+    //     System.out.println("false");
+       
+    // }     
+
         
     }
     
