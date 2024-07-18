@@ -83,16 +83,16 @@ public class Arraytwodim {
     // }
     //  System.out.println(max);
     // //Q9
-    int sum=0;
-    for(int i=0;i<=ar[0].length-1;i++){
-        for(int j=0;j<=ar[0].length-1;j++){
-          if (sum>=0) {
-            sum=sum+ar[i][j];
+    // int sum=0;
+    // for(int i=0;i<=ar[0].length-1;i++){
+    //     for(int j=0;j<=ar[0].length-1;j++){
+    //       if (sum>=0) {
+    //         sum=sum+ar[i][j];
             
-          }
-        }
-    }
-    System.out.println(sum);
+    //       }
+    //     }
+    // }
+    // System.out.println(sum);
 }
 
     
