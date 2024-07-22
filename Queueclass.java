@@ -22,7 +22,7 @@ public class Queueclass {
                     }
             }
             void dque(){
-                if(ri==le){
+                if(ri-le==ri-1){
                         System.out.println("Queue empty ");
                         
                     }
