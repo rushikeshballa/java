@@ -5,7 +5,8 @@ public class Array {
             int[] ar={34,54,40,45,65,39,96,27};
         //     for(int i=0;i<=ar.length-1;i++){
         //        System.out.print(ar[i]+" ");
-              
+            
+        
         //     }
         // //    Q2
         //    for(int i=1;i<=ar.length-1;i++){
